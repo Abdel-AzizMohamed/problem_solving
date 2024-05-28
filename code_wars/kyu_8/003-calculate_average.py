@@ -16,3 +16,6 @@ def find_average(numbers):
 ####### Solution 2
 def find_average(numbers):
     return 0 if not numbers else sum(numbers) / len(numbers)
+
+
+###### Solution link: https://youtu.be/8nyMycfVSzE

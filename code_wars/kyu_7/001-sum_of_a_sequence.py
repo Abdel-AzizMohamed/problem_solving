@@ -13,3 +13,6 @@ def sequence_sum(begin_number: int, end_number: int, step: int) -> int:
 def sequence_sum(begin_number: int, end_number: int, step: int) -> int:
     """"""
     return sum(range(begin_number, end_number + 1, step))
+
+
+###### Solution link: https://youtu.be/8nyMycfVSzE

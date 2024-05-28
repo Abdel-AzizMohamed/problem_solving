@@ -22,4 +22,4 @@ def remove_exclamation_marks(s: str) -> str:
     return s.replace("!", "")
 
 
-[1, 2, 4, 6]
+###### Solution link: https://youtu.be/8nyMycfVSzE
