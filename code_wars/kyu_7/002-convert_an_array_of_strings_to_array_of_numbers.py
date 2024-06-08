@@ -14,3 +14,6 @@ def to_float_array(array):
 ###### Solution 2
 def to_float_array(array):
     return [float(item) for item in array]
+
+
+####### Link: https://youtu.be/O0YiU5BcUzo

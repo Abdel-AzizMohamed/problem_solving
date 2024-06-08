@@ -13,3 +13,6 @@ def duplicate_encode(word):
         result += "("
 
     return result
+
+
+####### Link: https://youtu.be/AbTsySpdDKg

@@ -22,3 +22,6 @@ def maps(array):
 
 def maps(array):
     return list(map(lambda x: x * 2, array))
+
+
+####### Link: https://youtu.be/AbTsySpdDKg

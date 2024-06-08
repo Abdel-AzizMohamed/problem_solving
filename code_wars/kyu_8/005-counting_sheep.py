@@ -13,3 +13,6 @@ def count_sheeps(sheep):
 ###### Solution 2
 def count_sheeps(sheep):
     return sum(item for item in sheep if item)
+
+
+####### Link: https://youtu.be/O0YiU5BcUzo
