@@ -16,4 +16,4 @@ def even_or_odd(number: int):
     return "Odd" if number % 2 else "Even"
 
 
-####### Link: 005
+####### Link: https://youtu.be/r4odLI0m0WY

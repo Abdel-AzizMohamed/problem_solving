@@ -9,4 +9,4 @@ def is_square(n: int):
     return True if math.sqrt(n) % 1 == 0 else False
 
 
-####### Link: 005
+####### Link: https://youtu.be/r4odLI0m0WY
