@@ -17,5 +17,5 @@ var uniqueInOrder = function (iterable) {
   return iterable.filter((ele, i) => i === 0 || ele !== iterable[i - 1]);
 };
 
-//###### Link: Video 008
+//###### 08
 //###### Problem Link: https://www.codewars.com/kata/54e6533c92449cc251001667/train/javascript

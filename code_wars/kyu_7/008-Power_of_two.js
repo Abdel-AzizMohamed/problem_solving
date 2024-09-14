@@ -12,5 +12,5 @@ function isPowerOfTwo(n) {
   return Math.log2(n) % 1 === 0;
 }
 
-// ###### Link: Video 008
+// ###### 08
 // ###### Problem Link: https://www.codewars.com/kata/534d0a229345375d520006a0/train/javascript

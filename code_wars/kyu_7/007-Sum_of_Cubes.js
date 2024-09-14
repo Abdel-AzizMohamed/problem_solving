@@ -8,4 +8,4 @@ function sumCubes(n) {
   return result;
 }
 
-// ###### Link: Video 7
+// ######
